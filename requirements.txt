@@ -1,0 +1,10 @@
+numpy
+jupyter
+librosa
+matplotlib
+scipy
+torch
+tensorboard-logger
+pandas
+tensorflow
+imbalanced-learn
